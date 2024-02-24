@@ -1,3 +1,4 @@
+// Variavle simple
 // console.log("hello");
 // console.log(3-5)
 const Name ="Ravi Shanker"
